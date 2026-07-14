@@ -1,2 +1,2 @@
 # My-Competitive-Programming-Journey
-My solutions and progress in competitive programming (LeetCode, Codeforces, HackerRank, etc.).
+My competitive programming solutions and progress across LeetCode, Codeforces, HackerRank, and other platforms.
