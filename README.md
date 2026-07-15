@@ -8,6 +8,7 @@ My competitive programming solutions and progress across LeetCode, Codeforces, H
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anaximandr0s/competitive-programming-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Anaximandr0s/competitive-programming-solutions/tree/master/0027-remove-element) |
+| [0682-baseball-game](https://github.com/Anaximandr0s/competitive-programming-solutions/tree/master/0682-baseball-game) |
 | [1470-shuffle-the-array](https://github.com/Anaximandr0s/competitive-programming-solutions/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/Anaximandr0s/competitive-programming-solutions/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
@@ -18,5 +19,10 @@ My competitive programming solutions and progress across LeetCode, Codeforces, H
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/Anaximandr0s/competitive-programming-solutions/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/Anaximandr0s/competitive-programming-solutions/tree/master/1929-concatenation-of-array) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/Anaximandr0s/competitive-programming-solutions/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
