@@ -14,5 +14,3 @@ class Solution:
             else:
                 ans.append(operation)
         return sum(map(int, ans))
-
-            
