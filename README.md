@@ -8,6 +8,7 @@ My competitive programming solutions and progress across LeetCode, Codeforces, H
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anaximandr0s/competitive-programming-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Anaximandr0s/competitive-programming-solutions/tree/master/0027-remove-element) |
+| [1470-shuffle-the-array](https://github.com/Anaximandr0s/competitive-programming-solutions/tree/master/1470-shuffle-the-array) |
 ## Two Pointers
 |  |
 | ------- |
