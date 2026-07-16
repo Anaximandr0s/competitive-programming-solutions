@@ -24,5 +24,10 @@ My competitive programming solutions and progress across LeetCode, Codeforces, H
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Anaximandr0s/competitive-programming-solutions/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/Anaximandr0s/competitive-programming-solutions/tree/master/0682-baseball-game) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Anaximandr0s/competitive-programming-solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
