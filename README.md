@@ -35,4 +35,12 @@ My competitive programming solutions and progress across LeetCode, Codeforces, H
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Anaximandr0s/competitive-programming-solutions/tree/master/0155-min-stack) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Anaximandr0s/competitive-programming-solutions/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Anaximandr0s/competitive-programming-solutions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
